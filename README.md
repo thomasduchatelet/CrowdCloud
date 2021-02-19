@@ -5,8 +5,6 @@
 
 This project was part of the 8th International Smart Cities Intensive Programme 2021 in collaboration with students from Universidad Politécnica de Cartagena, Karelia University Of Applied Sciences, InHolland hogeschool and Hogeschool Gent. The **goal **of this project is to deliver a **proof of concept** for an IoT security solution during a one week hackathon.
 
-<iframe src="https://medium.com/media/5d815a15879211ee33e9d2a4abd8d41e" frameborder=0></iframe>
-
 ## The project
 
 In this project, we use a Raspberry Pi to monitor a crowd’s density, emotion, age and gender. We take a picture with the webcam when motion is detected, then we use [Microsoft Azure facial recognition](https://azure.microsoft.com/en-us/services/cognitive-services/face/) to get several attributes from the detected faces in the image. We also scan the surroundings for devices that have their WiFi option on. If you set up two more devices, you could use this data to calculate the location of the nearby devices. This is not included in this project. The gathered data can be visualized in [Microsoft Power BI](https://powerbi.microsoft.com/nl-nl/).
