@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WifiPowerMonitor": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --port 7074 --nodeDebugPort 5860m"
+    }
+  }
+}
