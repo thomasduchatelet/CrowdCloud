@@ -3,7 +3,7 @@
 
 ## **About**
 
-This project was part of the 8th International Smart Cities Intensive Programme 2021 in collaboration with students from Universidad Politécnica de Cartagena, Karelia University Of Applied Sciences, InHolland hogeschool and Hogeschool Gent. The **goal **of this project is to deliver a **proof of concept** for an IoT security solution during a one week hackathon.
+This project was part of the 8th International Smart Cities Intensive Programme 2021 in collaboration with students from Universidad Politécnica de Cartagena, Karelia University Of Applied Sciences, InHolland hogeschool and Hogeschool Gent. The **goal** of this project is to deliver a **proof of concept** for an IoT security solution during a one week hackathon.
 
 ## The project
 
